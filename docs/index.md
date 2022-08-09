@@ -1,9 +1,41 @@
 ## CNS Lab
 
 ### CNS Lab
-1. [**Assignment 1**  - Demonstrate the different types of topologies and types of transmission media by using a packet tracer tool.]()
-2. [**Assignment 2**  - Setup a WAN which contains wired as well as wireless LAN by using a packet tracer tool. Demonstrate transfer of a packet from LAN 1 (wired LAN) to LAN2 (Wireless LAN).]()
+1. [**Assignment 1**  - Demonstrate the different types of topologies and types of transmission media by using a packet tracer tool.](pages/ass1.md)
+<br><br>
 
+2. [**Assignment 2**  - Setup a WAN which contains wired as well as wireless LAN by using a packet tracer tool. Demonstrate transfer of a packet from LAN 1 (wired LAN) to LAN2 (Wireless LAN).]()
+<br><br>
+
+3. [**Assignment 3**  - Write a program for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. ]()
+<br><br>
+
+<!-- 4. [**Assignment 4**  - ]()
+<br><br>
+
+5. [**Assignment 5**  - ]()
+<br><br>
+
+6. [**Assignment 6**  - ]()
+<br><br>
+
+7. [**Assignment 7**  - ]()
+<br><br>
+
+8. [**Assignment 8**  - ]()
+<br><br>
+
+9. [**Assignment 9**  - ]()
+<br><br>
+
+10. [**Assignment 10**  - ]()
+<br><br>
+
+11. [**Assignment 11**  - ]()
+<br><br>
+
+12. [**Assignment 12**  - ]()
+<br><br> -->
 
 <br>
 <br>
