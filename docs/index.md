@@ -1,3 +1,18 @@
+## CNS Lab
+
+### CNS Lab
+1. [**Assignment 1**  - Demonstrate the different types of topologies and types of transmission media by using a packet tracer tool.]()
+2. [**Assignment 2**  - Setup a WAN which contains wired as well as wireless LAN by using a packet tracer tool. Demonstrate transfer of a packet from LAN 1 (wired LAN) to LAN2 (Wireless LAN).]()
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mokalyogesh113/CNSL/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
