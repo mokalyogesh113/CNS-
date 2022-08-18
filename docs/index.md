@@ -1,18 +1,19 @@
 ## CNS Lab
 
 ### CNS Lab
-1. [**Assignment 1**  - Demonstrate the different types of topologies and types of transmission media by using a packet tracer tool.](pages/ass1.md)
+1. [**Assignment 1**  - Demonstrate the different types of topologies and types of transmission media by using a packet tracer tool.](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_A-2_Network_Topology)
 <br><br>
 
-2. [**Assignment 2**  - Setup a WAN which contains wired as well as wireless LAN by using a packet tracer tool. Demonstrate transfer of a packet from LAN 1 (wired LAN) to LAN2 (Wireless LAN).]()
+2. [**Assignment 2**  - Setup a WAN which contains wired as well as wireless LAN by using a packet tracer tool. Demonstrate transfer of a packet from LAN 1 (wired LAN) to LAN2 (Wireless LAN).](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_A-3_Wireless_LAN)
 <br><br>
 
-3. [**Assignment 3**  - Write a program for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. ]()
+3. [**Assignment 3**  - Write a program for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. ](https://github.com/mokalyogesh113/CNSL/tree/main/pract_A-4_Hamming_code)
 <br><br>
 
-<!-- 4. [**Assignment 4**  - ]()
+ 4. [**Assignment 4**  -  Write a program to simulate Go back N and Selective Repeat Modes of Sliding Window Protocol in Peer-to-Peer mode.](https://github.com/mokalyogesh113/CNSL/tree/main/pract_A-5_Sliding_window)
 <br><br>
 
+<!--
 5. [**Assignment 5**  - ]()
 <br><br>
 
