@@ -1,6 +1,5 @@
 ## CNS Lab
 
-### CNS Lab
 1. [**Assignment 1**  - Demonstrate the different types of topologies and types of transmission media by using a packet tracer tool.](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_A-2_Network_Topology)
 <br><br>
 
