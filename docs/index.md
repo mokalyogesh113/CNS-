@@ -12,10 +12,10 @@
  4. [**Assignment 4**  -  Write a program to simulate Go back N and Selective Repeat Modes of Sliding Window Protocol in Peer-to-Peer mode.](https://github.com/mokalyogesh113/CNSL/tree/main/pract_A-5_Sliding_window)
 <br><br>
 
-<!--
-5. [**Assignment 5**  - ]()
-<br><br>
 
+6. [**Assignment 6**  - Write a program to demonstrate Sub-netting and find subnet masks. ](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_B-6_Sub-netting)
+<br><br>
+<!--
 6. [**Assignment 6**  - ]()
 <br><br>
 
