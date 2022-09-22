@@ -15,7 +15,8 @@
 
 6. [**Assignment 6**  - Write a program to demonstrate Sub-netting and find subnet masks. ](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_B-6_Sub-netting)
 <br><br>
-<!--
+
+<!-- 
 6. [**Assignment 6**  - ]()
 <br><br>
 
@@ -35,7 +36,8 @@
 <br><br>
 
 12. [**Assignment 12**  - ]()
-<br><br> -->
+<br><br>
+  -->
 
 <!-- <br>
 <br>
