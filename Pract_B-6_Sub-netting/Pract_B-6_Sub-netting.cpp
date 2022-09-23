@@ -53,15 +53,17 @@ int main()
     {
         mask[0] = 255 , mask[1] = mask[2] = mask[3] = 0;
         cout<<"CLASS D IP Address"<<endl;
-         cout<<"Subnet MAsk :-  255.0.0.0"<<endl;
+        //  cout<<"Subnet MAsk :-  255.0.0.0"<<endl;
     }
     else if(ip_add[0]>=240 && ip_add[0]<=255)
     {
         mask[0] = 255 , mask[1] = mask[2] = mask[3] = 0;
         cout<<"CLASS E IP Address"<<endl;
-         cout<<"Subnet MAsk :-  255.0.0.0"<<endl;
+        //  cout<<"Subnet MAsk :-  255.0.0.0"<<endl;
     }
-
+    if(ip_add[0]>255 || ip_add[0]<0)
+        return 0;
+        
     //Find the network IP and direct Broadcast IP
     int network_add[4] , last_add[4];    
     for(int i=0;i<4;i++)
