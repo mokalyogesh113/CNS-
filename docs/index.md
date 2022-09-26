@@ -13,13 +13,15 @@
 <br><br>
 
 
-6. [**Assignment 6**  - Write a program to demonstrate Sub-netting and find subnet masks. ](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_B-6_Sub-netting)
+5. [**Assignment 5**  - Write a program to demonstrate Sub-netting and find subnet masks. ](https://github.com/mokalyogesh113/CNSL/tree/main/Pract_B-6_Sub-netting)
 <br><br>
 
-<!-- 
-6. [**Assignment 6**  - ]()
+ 
+6. [**Assignment 6**  -Write a program to implement link state /Distance vector routing protocol to find suitable path 
+for transmission. ](https://github.com/mokalyogesh113/CNSL/tree/main/Pract-B-7_Distance_Vector_Routing)
 <br><br>
 
+<!--
 7. [**Assignment 7**  - ]()
 <br><br>
 
