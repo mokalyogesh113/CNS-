@@ -9,25 +9,27 @@ struct DVR_table
 
 int main()
 {
+    //Input No. of Nodes
     int n;
-    cout << "Enter the Number of Nodes  ==> ";
+    cout << "Enter the Number of Router Nodes  ==> ";
     cin >> n;
 
+    //Input Adjacency Matrix of Distance Between Routers
     cout << "Enter the Distance Matrix :- \n";
     for (int i = 1; i <= n; i++)
     {
         for (int j = 1; j <= n; j++)
         {
             cin >> rt[i].distance[j];
-            // || rt[i].distance[j]!=999
             
+            // Initially We don't know the next hop so set it as -1
             rt[i].nexthop[j] = -1;
         }
     }
 
     // DVR ALGORITHM
-    for(int steps = 1; steps < n; steps++)
-    {
+    for(int steps = 1; steps < n; steps++)     
+    {   
         for (int i = 1; i <= n; i++)
         {
             for (int j = 1; j <= n; j++)
@@ -46,7 +48,7 @@ int main()
         }
     }
 
-    // Printing the Table
+    // Printing the Distance Table
     for (int i = 1; i <= n; i++)
     {
         cout << "\n\nDistance Table For Router " << i << " :- \n";
@@ -61,4 +63,6 @@ int main()
             cout << endl;
         }
     }
+
+    return 0;
 }
